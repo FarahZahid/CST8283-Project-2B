@@ -1,0 +1,9 @@
+  STUDENT NAME                                COURSES                                    AVERAGE GRADE
+  Smith                 John                  COBOL    , ANALYSIS1, CSHARP1  , CSHARP2       090     A
+  Jones                 mortimer              COBOL    , ANALYSIS2, CSHARP1  , CSHARP2       080     B
+  Asimov                Issac                 COBOL    , ANALYSIS1, TESTING1 , CSHARP2       070     C
+  Herbert               Jerome                COBOL    , ANALYSIS1, TESTING2 , CSHARP2       060     D
+  Hnendersom            Jerome                COBOL    , ANALYSIS1, TESTING2 , CSHARP2       060     D
+  Herbert               Frank                 COBOL    , ANALYSIS1, TESTING2 , CSHARP1       056     D
+  Robinson              Spider                COBOL    , ANALYSIS1, TESTING2 , CSHARP1       056     D
+RECORDS READ: 007 RECORDS WRITTEN: 007
