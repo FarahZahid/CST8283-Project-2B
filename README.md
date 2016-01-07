@@ -1,5 +1,5 @@
 # CST8283 Project #2B - Student Tuition Report
-This was my second major assignment in my "Business Programming (COBOL)" course at Algonquin College. Written in COBOL using Microsoft Visual Studio 2012 and Visual COBOL, the program builds on top of <a href="https://github.com/richard1990/CST8283-Project-2A">Project #2A</a>.
+This was my second major assignment in my "Business Programming (COBOL)" course at Algonquin College. Written in COBOL using Microsoft Visual Studio 2012 and Visual COBOL, the program builds on top of <a href="https://github.com/richard1990/CST8283-Project-2A">Project #2A</a>. Some parts of the code was taken from Project #2A with some corrections by my professor, Mel Sanschagrin.
 
 The input file (STUFIL2B) contains seven student names; the student's respective student number, program number, and courses they are enrolled in; the payment to tuition they made; and the amount of tuition they still owe. Each student's grade is determined by taking the average of their four courses and given a grade rating (e.g. "A", "B", etc.) based on the following criteria:
 
